@@ -1,0 +1,22 @@
+#compre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+}
+
+
+#container2{
+    background-color:#F2F2F2 ;
+}
+
+.mp4>video{
+       display: flex;
+       align-self: center;
+       justify-content: center;
+       align-items: center;
+       padding-top: 5rem;
+       width: 100%;
+       height: 550px;
+       
+}
