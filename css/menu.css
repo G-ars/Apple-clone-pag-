@@ -9,7 +9,8 @@ body,html{
 #container1{
     position: fixed;
 	width: 100%;
-	background-color:#2E2E2E;
+    background-color:#2E2E2E;
+    opacity: 0.9;
 }
 
 #header-menu{
@@ -21,6 +22,10 @@ body,html{
     background-color:#2E2E2E;
     color: white;
     padding-bottom: 5px;
+}
+
+.ul1>li>a:hover{
+  color: white;
 }
 
 #menu>ul{

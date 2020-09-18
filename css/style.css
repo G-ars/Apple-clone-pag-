@@ -1,11 +1,10 @@
-#compre{
+#compre2{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 3rem;
+    background-color: black;
 }
-
-
 #container2{
     background-color:#F2F2F2 ;
 }
@@ -18,5 +17,218 @@
        padding-top: 5rem;
        width: 100%;
        height: 550px;
-       
 }
+
+.texto-video1{
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+    font-size: 80px;
+    color: #0B2161;
+    padding-bottom: 1rem;
+}
+
+.texto-video{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: #0B2161;
+}
+
+.btn1{
+    display: flex;
+    padding: 10px 10px 10px 10px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 580px;
+    border: 1px solid #0B2161;
+}
+.btn1:hover{
+    background-color: #0B2161;
+    color: #F2F2F2;
+}
+
+#container-article{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+}
+
+#textoComImg{
+    display: block;
+}
+
+#txt{
+    display: flex;
+    color: #FFFF;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma1, sans-serif;
+    margin-top: -180px;
+    margin-right: 50px;
+    padding-top: 5px;
+
+    
+}
+
+#art1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding-left: 100px;
+}
+
+#art-logo{
+    padding-bottom: 220px;
+    display: flex;
+    padding-right: 120px;
+    margin-left: 60px;
+}
+
+#art-img{
+    padding-top: 35px;
+    width: 200px;
+    
+}
+
+.bntSaiba {
+    width: 140px;
+    margin-right: 30px;
+    margin-top: 30px;
+    height: 60px;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    border: 1px solid white ;
+    font-size: medium;
+    
+}
+
+.btnVer {
+    width: 200px;
+    margin-right: 30px;
+    height: 60px;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    border: 1px solid white ;
+    font-size: medium;
+}
+
+.bntSaiba:hover{
+    background-color: #FFFF;
+    color: black;
+}
+.btnVer:hover{
+    background-color: #FFFF;
+    color: black;
+}
+#texto1{
+    display: flex;
+    color: #FFFF;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#container-article2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:white;
+}
+
+#art2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 100px;
+    padding-top: 120px;
+}
+
+#txt2{
+    display: flex;
+    color: black;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma1, sans-serif;
+    margin-top: -180px;
+    margin-right: 50px;
+    padding-top: 5px;
+}
+
+#art-logo2{
+    padding-bottom: 220px;
+    display: flex;
+    padding-right: 120px;
+    margin-left: 60px;
+}
+
+.bntSaiba2{
+    width: 140px;
+    margin-right: 30px;
+    margin-top: 30px;
+    height: 60px;
+    border-radius: 30px;
+    color: black;
+    background-color: white;
+    border: 1px solid black ;
+    font-size: medium;
+    
+}
+
+.btnVer2{
+    width: 200px;
+    margin-right: 30px;
+    height: 60px;
+    border-radius: 30px;
+    color: black;
+    background-color:white;
+    border: 1px solid black ;
+    font-size: medium;
+}
+
+.bntSaiba2:hover{
+    background-color: black;
+    color:white;
+}
+.btnVer2:hover{
+    background-color: black;
+    color: white;
+}
+
+
+#container-article3{
+    display: flex;
+    margin-top: 320px;
+}
+
+#ipadImg{
+    display: block;
+}
+
+.IpadLogo{
+    width: 150px;
+    margin-left: 45%;
+}
+
+.Ipadimagem{
+    width: 80%;
+    margin-left: 150px;
+    padding-bottom: 3rem;
+}
+
+.text2{
+    font-size: 20px;
+    margin-left: 300px;
+}
+.btnVer3{
+    
+}
+.bntSaiba3
